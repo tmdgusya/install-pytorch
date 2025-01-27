@@ -5,3 +5,4 @@ torch-cuda
 
 content/*
 data/*
+pwd.txt
